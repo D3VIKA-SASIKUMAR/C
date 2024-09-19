@@ -1,0 +1,28 @@
+#include<stdio.h>
+
+ int main(){ 
+     char letter;
+printf("enter a letter:");
+ scanf("%c",&letter);
+ printf("%c",letter);
+ if(letter=='a'){
+ printf("letter is vowel");
+ }
+ else if(letter=='e'){
+ printf("letter is vowel");
+ }
+ else if(letter==i){
+ printf("letter is vowel");
+ }
+ else if(letter==o){
+ printf("letter is vowel");
+ }
+ else if(letter==u){
+ printf("letter is vowel");
+ }
+ 
+ else{
+ printf("letter is not a vowel");
+ }
+ return 0;
+ }
